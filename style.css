@@ -1,0 +1,9 @@
+body {
+  font-family: helvetica neue;
+}
+#colors {
+  padding: 100px;
+  background: #ffffff;
+  color: white;
+  font-size: 36px;
+}
